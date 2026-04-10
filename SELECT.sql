@@ -1,0 +1,10 @@
+-- exemplo 1: selecionar e-mail
+-- select email 
+-- from sales.customers
+-- exemplo 2 selecionar e-mail e nome dos clientes da tabela
+--select email, first_name, last_name
+--from sales.customers
+--exemplo3 : chefe chega eu n quero o email e os nomes agora quero tambem o celular cliente entao vou mandar tudo da tabela costumers
+--select *
+--from sales.customers
+-- resumo: comando select seleciona coluna , 
